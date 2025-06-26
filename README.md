@@ -10,7 +10,7 @@ tic-tac-toe/
 
 ## 🖼️ Preview
 
-![Calculator UI](screenshot.png)
+![Tic-Tac-Toe UI](tic-tac-toe.png)
 
 ## ✨ Features
 
