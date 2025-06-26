@@ -5,7 +5,12 @@ tic-tac-toe/
 ├── index.html       # Main structure of the web page
 ├── style.css        # Styling and layout
 └── app.js           # Game logic and interactivity
+
 ```
+
+## 🖼️ Preview
+
+![Calculator UI](screenshot.png)
 
 ## ✨ Features
 
@@ -21,7 +26,7 @@ tic-tac-toe/
 
 🌈 Responsive and colorful design
 
-##📚 How to Play
+## 📚 How to Play
 
 Open the game in a web browser.
 
