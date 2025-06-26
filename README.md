@@ -61,13 +61,7 @@ Win conditions are checked after each move.
 
 The winner or draw message is displayed using the DOM.
 
-## 📄 To-Do (Future Enhancements)
 
-
-
-#👍 Contributing
-
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
 
 
