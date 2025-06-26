@@ -1,4 +1,4 @@
-##📁 Project Structure
+## 📁 Project Structure
 
 ```bash
 tic-tac-toe/
@@ -7,7 +7,7 @@ tic-tac-toe/
 └── app.js           # Game logic and interactivity
 ```
 
-##✨ Features
+## ✨ Features
 
 ✅ Turn-based gameplay: X and O alternate turns
 
@@ -36,7 +36,7 @@ Click "New Game" or "Reset Game" to play again.
 
 
 
-##📝 Technologies Used
+## 📝 Technologies Used
 
 HTML5 for structure
 
@@ -44,7 +44,7 @@ CSS3 for styling and layout
 
 JavaScript (Vanilla) for game logic
 
-##📊 Game Logic Overview
+## 📊 Game Logic Overview
 
 The game board is a 3x3 grid made of buttons.
 
@@ -56,7 +56,7 @@ Win conditions are checked after each move.
 
 The winner or draw message is displayed using the DOM.
 
-##📄 To-Do (Future Enhancements)
+## 📄 To-Do (Future Enhancements)
 
 
 
